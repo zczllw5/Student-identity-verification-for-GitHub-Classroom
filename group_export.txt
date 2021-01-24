@@ -1,0 +1,2 @@
+First name	Surname	Portico Student number	Email address	Group	Choice	
+Jane	Smith	99999999	jane.smith.21@ucl.ac.uk	Group 2	
