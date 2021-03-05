@@ -16,3 +16,12 @@ r = requests.get('https://api.github.com/users/zczllw5')
 print(r.text)
 
 #''['[]]
+
+
+#1. Principle Componect Analysis(PCA): extract features from source code
+    #rather than the Abstract syntext tree(AST): Farhan et el. suggest PCA
+    #what is reason?
+#2. Multinomial logistic regression model(MLR): classify the source code based on pridictions
+#3. 2tailed z test: evaluate the proformance of MLR predictors
+
+
